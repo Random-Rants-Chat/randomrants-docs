@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Random Rants Documentation",
+  title: "Random Rants Docs",
   url: "https://random-rants-chat.github.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -10,22 +10,22 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: "Random Rants Documentation",
+      title: "Random Rants Docs",
       items: [
         {
-          href: "https://randomrants-plus.onrender.com/about",
-          label: "About",
+          href: "https://randomrants-plus.onrender.com/",
+          label: "Random Rants +",
           position: "left",
         },
         {
-          href: "https://randomrants-plus.onrender.com/about",
-          label: "Random Rants +",
+          href: "/about",
+          label: "About",
           position: "left",
         },
         {
           href: "https://github.com/random-rants-chat",
           label: "GitHub",
-          position: "left",
+          position: "right",
         },
       ],
     },

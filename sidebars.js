@@ -1,3 +1,12 @@
 module.exports = {
-  sidebar: ["intro"],
+  sidebar: [
+    "intro",
+    "about",
+    {
+      type: "category",
+      label: "Compiling & Running",
+      collapsed: true,
+      items: ["compiling/original"],
+    },
+  ],
 };
