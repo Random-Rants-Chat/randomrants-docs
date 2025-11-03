@@ -22,6 +22,8 @@ Later we discussed the idea of making a new and more secure version, called [Ran
 This site was blocked by my school (because of it's loud shared-soundboard) at the last day of school, but a few months later [Glitch](https://glitch.com) announched shutdown, and that was our service I used to get the site running.
 Luckly ChatGPT had a good idea for the perfect replacement, called [Render](https://render.com).
 
+I didn't want to leave anyone at risk, so I didn't want to upload the original **Random Rants**.
+
 ## Screenshots
 
 ![Home Screen](./screenshots/rr2.png)
