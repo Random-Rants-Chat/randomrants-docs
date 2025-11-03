@@ -115,4 +115,8 @@ Where all the fun stuff starts.
 
 # The chain of chat apps
 
-The things that came before Random Rants
+The things that came before Random Rants +
+
+- [Gvbvdxx Chat](./sites/gvbvdxxchat.md)
+- [Macre's Chat](./sites/macreschat.md)
+- [Random Rants](./sites/randomrants.md)

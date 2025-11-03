@@ -4,6 +4,11 @@ title: Random Rants compilation tutorial
 hide_table_of_contents: true
 ---
 
+:::info
+We've just made a way to get the site without the risk of an attack, this version uses a browser-based fake server. It isn't 100% working but most functions work.
+[View the safe version here](https://gvbvdxx-chat-safe.github.io/RandomRants)
+:::
+
 # Random Rants Compilation and Local Execution Tutorial
 
 :::danger
