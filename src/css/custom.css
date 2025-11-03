@@ -1,0 +1,27 @@
+/* src/css/custom.css */
+
+.token.commandname {
+  color: yellow;
+  font-weight: bold;
+}
+
+.token.commandargument {
+  color: green;
+  font-weight: bold;
+}
+
+.token.commandselector {
+  color: orange;
+  font-weight: bold;
+}
+
+.token.commandtext {
+  color: white;
+}
+
+.language-messagecommand {
+  font-family: arial;
+}
+.code-block-contaner-language-messagecommand {
+  background: red;
+}

@@ -32,10 +32,12 @@ module.exports = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
-    /*prism: {
-        theme: require('./code-themes/light'),
-        darkTheme: require('./code-themes/dark'),
-      },*/
+    prism: {
+      theme: require("prism-react-renderer").themes.dracula,
+      darkTheme: require("prism-react-renderer").themes.dracula,
+      // Add your language here
+      additionalLanguages: ["javascript"],
+    },
   },
   presets: [
     [
@@ -46,10 +48,11 @@ module.exports = {
           routeBasePath: "/",
           breadcrumbs: false,
         },
-        /*theme: {
-            customCss: require.resolve('./src/css/custom.css'),
-          },*/
+        theme: {
+          customCss: require.resolve("./src/css/custom.css"),
+        },
       },
     ],
   ],
+  clientModules: [require.resolve("./src/theme/prism.js")],
 };
