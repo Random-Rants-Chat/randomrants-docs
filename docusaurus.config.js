@@ -53,6 +53,18 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
           breadcrumbs: false,
+
+          admonitions: {
+            keywords: [
+              "caution",
+              "danger",
+              "info",
+              "joke",
+              "note",
+              "tip",
+              "warning",
+            ],
+          },
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

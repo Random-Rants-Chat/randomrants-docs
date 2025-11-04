@@ -2,14 +2,14 @@ import React from "react";
 import clsx from "clsx";
 import Translate from "@docusaurus/Translate";
 import AdmonitionLayout from "@theme/Admonition/Layout";
-import IconInfo from "@theme/Admonition/Icon/Info";
-const infimaClassName = "alert alert--info";
+import ExcitedIcon from "@site/src/components/excited.svg";
+const infimaClassName = "alert alert--joke";
 const defaultProps = {
-  icon: "🤣",
+  icon: <ExcitedIcon />,
   title: (
     <Translate
       id="theme.admonition.joke"
-      description="The default label used for the joke admonition (:::joke)"
+      description="The default label used for the Joke admonition (:::joke)"
     >
       joke
     </Translate>

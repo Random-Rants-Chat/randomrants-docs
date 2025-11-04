@@ -6,8 +6,7 @@ hide_table_of_contents: true
 
 # `;luig` Command
 
-:::info
-This command is a joke, it's meant to get people laughing or just a general funny thing.
+:::joke
 :::
 
 :::info

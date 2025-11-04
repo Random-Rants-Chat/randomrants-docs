@@ -26,3 +26,10 @@
   background: #919191 !important;
   font-size: 20px;
 }
+
+.alert--joke {
+  --ifm-alert-background-color: #ac00db;
+  --ifm-alert-background-color-highlight: rgba(212, 53, 28, 0.15);
+  --ifm-alert-foreground-color: rgb(255, 255, 255);
+  --ifm-alert-border-color: #5e0078;
+}
