@@ -13,8 +13,8 @@ module.exports = {
       title: "Random Rants Docs",
       logo: {
         alt: "Random Rants Logo",
-        src: "img/randomrants.svg", // Logo for light mode
-        srcDark: "img/randomrants-dark.svg", // Logo for dark mode
+        src: "img/page-logo.svg", // Logo for light mode
+        srcDark: "img/page-logo.svg", // Logo for dark mode
       },
       items: [
         {
@@ -60,4 +60,5 @@ module.exports = {
     ],
   ],
   clientModules: [require.resolve("./src/theme/prism.js")],
+  plugins: [require.resolve("docusaurus-lunr-search")],
 };
