@@ -117,6 +117,6 @@ Where all the fun stuff starts.
 
 The things that came before Random Rants +
 
-- [Gvbvdxx Chat](./sites/gvbvdxxchat.md)
-- [Macre's Chat](./sites/macreschat.md)
-- [Random Rants](./sites/randomrants.md)
+- [Gvbvdxx Chat](/Sites/gvbvdxxchat.md)
+- [Macre's Chat](./Sites/macreschat.md)
+- [Random Rants](./Sites/randomrants.md)
