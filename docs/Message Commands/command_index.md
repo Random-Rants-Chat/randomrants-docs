@@ -2,6 +2,7 @@
 slug: /commands/
 title: Intro to Message Commands
 hide_table_of_contents: true
+sidebar_position: 0
 ---
 
 # Message Command Docs

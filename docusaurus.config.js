@@ -1,4 +1,5 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+
 module.exports = {
   title: "Random Rants Docs",
   url: "https://random-rants-chat.github.io/",
