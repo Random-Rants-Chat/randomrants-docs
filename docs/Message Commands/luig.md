@@ -27,7 +27,7 @@ This makes everyones screen show a compressed luigi meme video (From Super Mario
 
 # What it looks like
 
-<video controls>
+<video controls width="100%" muted autoplay>
   <source src="/videos/luig.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>

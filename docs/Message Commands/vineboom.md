@@ -1,10 +1,10 @@
 ---
-slug: /commands/shake/
-title: ;shake
+slug: /commands/vineboom/
+title: ;vineboom
 hide_table_of_contents: true
 ---
 
-# `;shake` Command
+# `;vineboom` Command
 
 :::joke
 :::
@@ -17,26 +17,14 @@ This command is an owner-only command, only people with ownership can use this. 
 This command will or can block user interaction, or make it temporarily tough for the user to use Random Rants +.
 :::
 
-This makes the sender's screen shake for the specified intensity.
-
-The maximum intensity is 10.
+This plays the vineboom sound, and also shows an image and fades out.
 
 # Usage
 
 ```messagecommand
-;shake <Username> <Intensity>
+;vineboom
 ```
 
-# Examples
+# What it looks like
 
-```messagecommand
-;shake gvbvdxx 10
-```
-
-```messagecommand
-;shake @all 4
-```
-
-```messagecommand
-;shake @others 5
-```
+![Suprised black man face](./images/vineboom.jpg)

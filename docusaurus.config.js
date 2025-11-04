@@ -2,7 +2,7 @@
 
 module.exports = {
   title: "Random Rants Docs",
-  url: "https://random-rants-chat.github.io/",
+  url: "https://randomrants-docs.onrender.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -31,6 +31,11 @@ module.exports = {
         {
           href: "https://github.com/random-rants-chat",
           label: "GitHub",
+          position: "right",
+        },
+        {
+          href: "https://github.com/random-rants-chat/randomrants-docs",
+          label: "Source",
           position: "right",
         },
       ],
