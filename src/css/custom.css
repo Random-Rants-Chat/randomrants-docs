@@ -27,9 +27,26 @@
   font-size: 20px;
 }
 
-.alert--joke {
-  --ifm-alert-background-color: #ac00db;
-  --ifm-alert-background-color-highlight: rgba(212, 53, 28, 0.15);
-  --ifm-alert-foreground-color: rgb(255, 255, 255);
-  --ifm-alert-border-color: #5e0078;
+/* src/css/custom.css */
+
+/*
+  This block defines the "light mode" styles.
+  It's a light purple background with dark purple text/border.
+*/
+html[data-theme="light"] .alert--joke {
+  --ifm-alert-background-color: #f3e5f5; /* Light purple */
+  --ifm-alert-foreground-color: #5e0078; /* Dark purple text */
+  --ifm-alert-border-color: #ac00db; /* Bright purple border */
+  --ifm-alert-icon-color: #5e0078; /* Dark purple icon */
+}
+
+/*
+  This block defines the "dark mode" styles.
+  It uses your dark purple background with white text.
+*/
+html[data-theme="dark"] .alert--joke {
+  --ifm-alert-background-color: #2a003d; /* Dark purple bg */
+  --ifm-alert-foreground-color: #f0dfff; /* Light purple/white text */
+  --ifm-alert-border-color: #ac00db; /* Bright purple border */
+  --ifm-alert-icon-color: #f0dfff; /* Light purple/white icon */
 }
