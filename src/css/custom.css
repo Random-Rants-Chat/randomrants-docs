@@ -22,6 +22,7 @@
 .language-messagecommand {
   font-family: arial;
 }
-.code-block-contaner-language-messagecommand {
-  background: red;
+.pre-code-language-messagecommand {
+  background: #919191 !important;
+  font-size: 20px;
 }

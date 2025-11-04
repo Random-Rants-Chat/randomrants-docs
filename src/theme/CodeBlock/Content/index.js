@@ -15,7 +15,7 @@ const Pre = React.forwardRef((props, ref) => {
       {...props}
       className={
         clsx(props.className, styles.codeBlock, "thin-scrollbar") +
-        " pre-language-" +
+        " pre-code-language-" +
         props.language
       }
     />

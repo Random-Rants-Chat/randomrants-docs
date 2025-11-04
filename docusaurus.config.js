@@ -11,6 +11,11 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: "Random Rants Docs",
+      logo: {
+        alt: "Random Rants Logo",
+        src: "img/randomrants.svg", // Logo for light mode
+        srcDark: "img/randomrants-dark.svg", // Logo for dark mode
+      },
       items: [
         {
           href: "https://randomrants-plus.onrender.com/",
