@@ -60,5 +60,5 @@ module.exports = {
     ],
   ],
   clientModules: [require.resolve("./src/theme/prism.js")],
-  plugins: [require.resolve("docusaurus-lunr-search")],
+  plugins: ["@cmfcmf/docusaurus-search-local"],
 };
