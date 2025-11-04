@@ -1,6 +1,6 @@
 ---
 slug: /commands/restart/
-title: ;restart | Message Commands
+title: ;restart
 hide_table_of_contents: true
 ---
 

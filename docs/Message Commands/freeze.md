@@ -1,10 +1,10 @@
 ---
-slug: /commands/popupMessage/
-title: ;popupMessage
+slug: /commands/freeze/
+title: ;freeze
 hide_table_of_contents: true
 ---
 
-# `;popupMessage` Command
+# `;freeze` Command
 
 :::info
 This command is an owner-only command, only people with ownership can use this. (the room owner, and any promoted people)
@@ -14,16 +14,17 @@ This command is an owner-only command, only people with ownership can use this. 
 This command will or can block user interaction, or make it temporarily tough for the user to use Random Rants +.
 :::
 
-This will show an popup on the specified user's screen showing the specified message.
+This freezes the specified users screen temporarily for the user.
+This doesn't stop them from typing in textboxes though until they click or tap on their screen.
 
 # Usage
 
 ```messagecommand
-;popupMessage <Username> <Message>
+;freeze <Username>
 ```
 
 # Examples
 
 ```messagecommand
-;popupMessage @all This is an popup message for everyone!
+;freeze gvbvdxx
 ```

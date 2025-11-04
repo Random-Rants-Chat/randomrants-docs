@@ -1,6 +1,6 @@
 ---
 slug: /commands/runAs/
-title: ;runAs | Message Commands
+title: ;runAs
 hide_table_of_contents: true
 ---
 

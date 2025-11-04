@@ -1,6 +1,6 @@
 ---
 slug: /commands/kick/
-title: ;kick | Message Commands
+title: ;kick
 hide_table_of_contents: true
 ---
 

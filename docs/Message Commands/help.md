@@ -1,6 +1,6 @@
 ---
 slug: /commands/help/
-title: ;help | Message Commands
+title: ;help
 hide_table_of_contents: true
 ---
 
