@@ -30,7 +30,7 @@ jobs:
 
       - name: Install and Build Frontend 🏗️
         run: |
-          npm install
+          npm install --ignore-engines
           npm run build
 
       - name: Commit and Push to Deploy Branch 🚀
