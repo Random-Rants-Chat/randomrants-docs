@@ -51,3 +51,5 @@ Here are the various _Message Commands_ you can do in Random Rants +:
 - [`;me`](./me.md)
 - [`;roll`](./roll.md)
 - [`;8ball`](./8ball.md)
+- [`;mute`](./mute.md)
+- [`;unmute`](./unmute.md)
