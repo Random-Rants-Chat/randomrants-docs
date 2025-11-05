@@ -1,10 +1,10 @@
 ---
-slug: /commands/8ball/
-title: ;8ball
+slug: /commands/me/
+title: ;me
 hide_table_of_contents: true
 ---
 
-# `;8ball` Command
+# `;me` Command
 
 :::joke
 :::
