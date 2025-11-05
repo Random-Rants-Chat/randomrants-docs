@@ -90,6 +90,8 @@ Where all the fun stuff starts.
 
   You can start embeded sites, but those only open the url you typed, everything else is different for other users.
 
+  There is also other cool modes, like scratch cloud mini-games (we use modified TurboWarp) for your room, and also a shared painting canvas.
+
   Video streams (cameras, microphones, screenshares, etc) go straight to WebRTC, no sus servers watching your face or screen.
 
   :::danger
