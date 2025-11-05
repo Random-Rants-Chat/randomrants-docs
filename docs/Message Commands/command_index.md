@@ -48,3 +48,6 @@ Here are the various _Message Commands_ you can do in Random Rants +:
 - [`;uh`](./uh.md)
 - [`;vineboom`](./vineboom.md)
 - [`;xperrors`](./xperrors.md)
+- [`;me`](./me.md)
+- [`;roll`](./roll.md)
+- [`;8ball`](./8ball.md)
