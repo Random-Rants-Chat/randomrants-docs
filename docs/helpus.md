@@ -24,10 +24,3 @@ If you sign up on [Random Rants +](https://randomrants-plus.onrender.com) (It's 
 
 Use platforms like [YouTube](https://youtube.com) to make videos like screenrecordings of Random Rants + and it's features.
 Or post comments on random sites (at good places), and hope people click it.
-
-## [Scratch](https://scratch.mit.edu) Bot
-
-![[Scratch](https://scratch.mit.edu) robot Comment](./s_comment.png)
-
-If you ended up with a comment like this on scratch, you've met one of our scratch comment posting robots.
-It's just a temporary way to get people to open this link.
