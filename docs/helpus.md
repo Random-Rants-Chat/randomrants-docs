@@ -8,6 +8,8 @@ hide_table_of_contents: true
 
 We're looking for people to help us advertise [Random Rants +](https://randomrants-plus.onrender.com).
 
+Try it here: [https://randomrants-plus.onrender.com](https://randomrants-plus.onrender.com).
+
 ## What is this? (Short)
 
 [Random Rants +](https://randomrants-plus.onrender.com) is a real time chat site made by Gvbvdxx (me, which used to be a part of the [Scratch](https://scratch.mit.edu) community, but got banned), and [Im_CatmanYT](https://scratch.mit.edu/users/Im_CatmanYT) (Met him in real life) that made the ideas and came up with the name.
