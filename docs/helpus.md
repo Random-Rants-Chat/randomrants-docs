@@ -16,6 +16,10 @@ Try it here: [https://randomrants-plus.onrender.com](https://randomrants-plus.on
 
 We didn't make this for nobody to use it, but the more recognition means that more people can use it and rely on this - which is good so that you have chances of meeting other people and this site becomes more exiting to us.
 
+## Get a chance to join the official dev room.
+
+If you sign up on [Random Rants +](https://randomrants-plus.onrender.com) (It's free!), then you may get a chance to meet the developers on there. (Check your room list often, look for a room called "OFFICIAL DEVELOPER'S CHATROOM").
+
 ## How to help
 
 Use platforms like [YouTube](https://youtube.com) to make videos like screenrecordings of Random Rants + and it's features.
