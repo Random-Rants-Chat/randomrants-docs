@@ -12,6 +12,8 @@ We're looking for people to help us advertise [Random Rants +](https://randomran
 
 [Random Rants +](https://randomrants-plus.onrender.com) is a real time chat site made by Gvbvdxx (me, which used to be a part of the [Scratch](https://scratch.mit.edu) community, but got banned), and [Im_CatmanYT](https://scratch.mit.edu/users/Im_CatmanYT) (Met him in real life) that made the ideas and came up with the name.
 
+We didn't make this for nobody to use it, but the more recognition means that more people can use it and rely on this.
+
 ## How to help
 
 Use platforms like [YouTube](https://youtube.com) to make videos like screenrecordings of Random Rants + and it's features.
